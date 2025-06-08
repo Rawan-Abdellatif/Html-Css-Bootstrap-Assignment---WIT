@@ -8,14 +8,13 @@ This repository contains the first assignment for the Women in Tech (WIT) progra
 
 ## 📁 Project Structure
 
-├── index.html
-├── css/
-│   └── styles.css
-├── images/
-│   └── (all images used in the project)
-└── README.md
 
-
+- index.html  
+- css/  
+  └── styles.css  
+- images/  
+  └── (all images used in the project)  
+- README.md
 
 -------
 🙋‍♀️ Author
