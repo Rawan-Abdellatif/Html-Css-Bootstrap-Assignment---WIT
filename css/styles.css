@@ -1,0 +1,119 @@
+/* Reset & Base Styles */
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #eef1f5;
+    color: #333;
+    line-height: 1.6;
+  }
+
+  .logo h1{
+    align-content: center;
+  }
+  
+  header {
+    background-color: #1e1e2f;
+    padding: 1rem 2rem;
+    color: white;
+  }
+  
+
+.bg-rawan{
+color: #bb5a7d;
+}
+  
+h1{
+    font-family: Georgia, serif;   
+    color: #bb5a7d;
+}
+
+.lead{
+    font-size: 1.3rem; font-family: Arial;
+}
+
+.btn.btn-pink {
+    background-color: #bb5a7d;
+    color: white;
+    font-weight: 600;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .btn.btn-pink:hover {
+    background-color: #a84f6f; 
+    color:white;
+  }
+  
+
+.image-frame {
+    width: 450px; 
+    height:550px; 
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 0 auto; 
+
+
+  }
+  h5, .text-muted{
+    text-align: center;
+  }
+ 
+
+  section {
+    padding: 2rem;
+    margin: auto;
+  }
+  .col-md-4{
+    text-align: center;
+    align-items: center;
+  }
+  h2 {
+    color: #1e1e2f;
+    margin-bottom: 1rem;
+  }
+  
+
+#icons .rounded-circle:hover{
+    background-color: #a84f6f;
+    border:1px solid #a84f6f
+    
+}
+span{
+  color: #bb5a7d;
+}
+.text-uppercase,.my-5 .text-center{
+    color: #bb5a7d; font-family: Georgia, serif;
+
+
+}
+.text-center a {
+    text-decoration: none;
+  }
+  
+  .text-center a:hover ,.my-5 a{
+    text-decoration: none;
+  }
+  
+  
+ .mt-3 a{
+    color: black;
+
+ } 
+
+.my-5, .mt-3 a:hover ,.my-5 a{
+    color: #bb5a7d;
+
+}
+
+.fab .fa-github{
+    background-color: #a84f6f;
+    color: #bb5a7d;
+
+}
+.btn-pink.btn-sm {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+  }
+  
