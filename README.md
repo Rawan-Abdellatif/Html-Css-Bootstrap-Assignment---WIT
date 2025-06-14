@@ -9,7 +9,10 @@ This repository contains the first assignment for the Women in Tech (WIT) progra
 ## 📁 Project Structure
 
 
-- index.html  
+- index.html 
+- projects.html
+- skills.html
+- About-me.html 
 - css/  
   └── styles.css  
 - images/  
